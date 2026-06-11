@@ -1,4 +1,19 @@
-Wave Motion - Flutter
+>> ECG Style Wave Motion Flutter
 
-Built this for a task to recreate a simple ECG style wave animation. 
-Tap "Play" and a glowing dot draws the heartbeat line on a grid background.
+A Flutter application that simulates ECG-style wave motion using CustomPainter.
+
+>> Preview
+
+![ECG Animation](assets/ecg_demo.gif)
+
+>> Features
+
+- Smooth ECG animation
+- CustomPainter implementation
+- Flutter-based UI
+
+>> Getting Started
+
+```bash
+flutter pub get
+flutter run
